@@ -4,7 +4,7 @@ pygments:         true
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        /:year/:month/:title
 
 # Setup
 title:            Jinx
