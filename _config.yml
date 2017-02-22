@@ -1,15 +1,14 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
 highlighter:      rouge
 
 # Permalinks
-permalink:        /:year/:month/:title
+permalink:        pretty
 
 # Setup
 title:            Jinx
 tagline:          432hz
-url:              https://jinx432.github.io
+url:              https://jinx432.github.io/
 paginate:         10
 baseurl:          https://jinx432.github.io/
 author:
