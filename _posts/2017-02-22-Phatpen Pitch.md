@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Phatpen Pitch
+description: Phatpen is a Mobile extension tool that lets users connect to trading applications and bring up trades relevant to the article they open the extension on
+img: /img/screenshot-phatpen.png
 ---
 
 **Phatpen** is a Mobile extension tool that lets users connect to trading applications and bring up trades relevant to the article they open the extension on. For example if a user is reading a Bloomberg article and it mentions a company or trading symbol the user is interested in then the user can open the extension and it will scrape the article looking for company information and bring up the relevant trades so the user can start trading immediately.
