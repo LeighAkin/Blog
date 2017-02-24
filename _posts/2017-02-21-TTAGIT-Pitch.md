@@ -2,7 +2,8 @@
 layout: post
 title: TTAGIT Pitch
 description: TTAGIT is a Twitter tool that allows users to use Twitter as a bullboard on any URL
-images: /img/screenshot-ttagit.png
+image:
+    - url: /img/screenshot-ttagit.png
 ---
 
 **TTAGIT** is a Twitter tool that allows users to use Twitter as a bullboard on any URL. The TTAGIT extension works with Chrome, Firefox, Safari, Internet Explorer and IOS devices. Open the extension with your browser over any URL and interact with the Tweets relevant to that URL. Whether you use it as Analytics tool to see what people are Tweeting about the URL or as a useful commenting system TTAGIT gives you the edge, and takes Twitter to new realms. TTAGIT also has an embed so you can embed TTAGIT on your own website.
