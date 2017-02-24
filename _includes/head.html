@@ -41,7 +41,9 @@
   <meta property="og:type" content="article">
   <meta property="og:title" content="Jinx">
   <meta property="og:site_name" content="Jinx">
-  <meta property="og:url" content="jinx432.com">
+  {% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  {% endif %}
   <meta property="og:image" content="http://jinx432.com/img/redpill.jpg">
   <meta property="article:published_time" content="2017-02-23">
   <meta property="article:author" content="">
