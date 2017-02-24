@@ -12,6 +12,7 @@ description:      Madam, I have come from a country where people are hanged if t
 url:              https://jinx432.github.io/
 paginate:         10
 baseurl:          https://jinx432.github.io/
+image_url:        http://jinx432.com/img/
 author:
   name:           Jinx
   url:            https://twitter.com/jinx_______
