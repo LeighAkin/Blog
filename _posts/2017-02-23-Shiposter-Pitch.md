@@ -2,7 +2,7 @@
 layout: post
 title: Shitposter Pitch
 description: Shitposter is a Realtime Chat Bullboard for Shitposting. Think of it like having a Graffiti pen in the bathroom, with a topic list.
-img: http://jinx432.com/img/screenshot-shitposter.png
+image: /img/screenshot-shitposter.png
 ---
 
 ## *shitpōstər*
