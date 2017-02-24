@@ -7,8 +7,6 @@ comments: true
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-  {% if page.comments %}
-<script id="dsq-count-scr" src="//jinx432.disqus.com/count.js" async></script>{% endif %}
 </div>
 
 <div class="related">
@@ -25,4 +23,5 @@ comments: true
       </li>
     {% endfor %}
   </ul>
+  <script id="dsq-count-scr" src="//jinx432.disqus.com/count.js" async></script>
 </div>
