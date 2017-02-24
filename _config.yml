@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Jinx
 tagline:          wyvern
 description:      Madam, I have come from a country where people are hanged if they talk ~ Leonhard Euler
-url:              https://jinx432.github.io/
+url:              https://jinx432.github.io
 paginate:         10
 baseurl:          https://jinx432.github.io/
 image_url:        http://jinx432.com/img/
