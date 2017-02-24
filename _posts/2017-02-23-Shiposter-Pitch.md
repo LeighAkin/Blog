@@ -31,7 +31,8 @@ title: Shitposter Pitch
 
 Don't listen to Mark Twain, he was an imbecile. Shitposter is a parody of Social Networking.
 
-## Creators
+### Creators
 
 Jinx
+
 Scott Klarenbach
