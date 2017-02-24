@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            Jinx
 tagline:          wyvern
-url:              https://jinx432.github.io
+url:              https://jinx432.github.io/
 paginate:         10
-baseurl:          https://jinx432.github.io
+baseurl:          https://jinx432.github.io/
 author:
   name:           Jinx
   url:            https://twitter.com/jinx_______
