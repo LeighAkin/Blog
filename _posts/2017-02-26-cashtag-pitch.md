@@ -17,6 +17,8 @@ For example if a user is reading a [Bloomberg](https://www.bloomberg.com) articl
 
 * Cashtag also brings up relevant mentions across social channels relating to the article you are reading.
 
+## TTAGIT baked right in
+
 Cashtag uses [http://ttagit.com/](http://ttagit.com/) as its bullboard tool.
 
 **TTAGIT** is a [Twitter](https://twitter.com) tool that allows users to use Twitter as a bullboard on any URL. The TTAGIT extension works with Chrome, Firefox, Safari, Internet Explorer and IOS devices.
@@ -29,11 +31,15 @@ Cashtag also brings up recent news releases so users can look at the latest news
 
 > If you want to reap financial blessings, you have to sow financially. ~ JOEL OSTEEN
 
+## Sentiment Analysis
+
 Cashtag uses **Sentiment Analysis** to grade the interest in the company and article the user is interacting with.
 
 Sentiment Analysis determines whether a piece of writing is `positive`, `negative` or `neutral`. A common use case for this technology is to discover how people feel about a particular topic.
 
 It's also known as opinion mining, deriving the opinion or attitude of a speaker. A common use case for this technology is to discover how people **feel about a particular topic**.
+
+### Usability
 
 Cashtag is basically like a [http://www.stockhouse.com/](http://www.stockhouse.com/) in an extension tool, that gives you insight immediately from articles involving potential trading investments.
 
@@ -44,6 +50,8 @@ Cashtag is basically like a [http://www.stockhouse.com/](http://www.stockhouse.c
 <div class="message">
 And from the time you read a breaking news story to placing your trade, you may have missed the early profit entry. Time is money!
 </div>
+
+### Development
 
 Cashtag is at the final stage of development, we are looking for a default trading API to connect with to allow Cashtag to start trading.
 
