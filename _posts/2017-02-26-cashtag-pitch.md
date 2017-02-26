@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cashtag Pitch
+title: Cashtag
 description: Cashtag is a Mobile extension tool that lets users connect to trading applications and bring up trades relevant to the article they open the extension on
 image: /img/cashtagscrn.png
 ---
@@ -23,9 +23,7 @@ Cashtag uses [http://ttagit.com/](http://ttagit.com/) as its bullboard tool.
 
 TTAGIT compiles all Tweets relative to the URL together on one feed that users can interact with. TTAGIT allows users to like, reply or retweet so they can interact as if they were actually on Twitter.
 
-<div class="message">
-Using **TTAGIT** with **Cashtag** gives users the ability to look at feedback about an article or a potential trade.
-</div>
+Using TTAGIT with Cashtag gives users the ability to look at feedback about an article or a potential trade.
 
 Cashtag also brings up recent news releases so users can look at the latest news from companies they potentially want to invest in.
 
@@ -44,7 +42,7 @@ Cashtag is basically like a [http://www.stockhouse.com/](http://www.stockhouse.c
 * Making trades while reading an article online involves changing tabs or even going to applications which distracts from the content of the page you have been focused on reading.
 
 <div class="message">
-And from the time you read a breaking news story to placing your trade, you may have missed the early profit entry. **Time is money!**
+And from the time you read a breaking news story to placing your trade, you may have missed the early profit entry. Time is money!
 </div>
 
 Cashtag is at the final stage of development, we are looking for a default trading API to connect with to allow Cashtag to start trading.
