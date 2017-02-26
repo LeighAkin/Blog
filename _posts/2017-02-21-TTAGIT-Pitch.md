@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TTAGIT Pitch
+title: TTAGIT
 description: TTAGIT is a Twitter tool that allows users to use Twitter as a bullboard on any URL
 image: /img/screenshot-ttagit.png
 ---
@@ -31,4 +31,4 @@ TTAGIT's action extension on `IOS mobile devices` lets users interact with relev
 
 To learn more about TTAGIT go to [http://ttagit.com/](http://ttagit.com/) and try it out yourself.
 
-TTAGIT [Tiny Pitch™]()
+TTAGIT [Tiny Pitch™](http://tiny.pr/61pmxR0f)
