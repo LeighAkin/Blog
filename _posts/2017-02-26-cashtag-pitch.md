@@ -50,3 +50,5 @@ Cashtag is at the final stage of development, we are looking for a default tradi
 We would like to use the API for [https://www.robinhood.com/](https://www.robinhood.com/) which is a free trading application. As Cashtag progresses more trading options will be added.
 
 We hope to be launching Cashtag soon, but until then you can find out more at [http://cashtag.io/](http://cashtag.io/).
+
+Cashtag Tiny Pitch™ http://tiny.pr/fC8YMFPR
