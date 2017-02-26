@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shitposter Pitch
+title: Shitposter
 description: Shitposter is a Realtime Chat Bullboard for Shitposting. Think of it like having a Graffiti pen in the bathroom, with a topic list.
 image: /img/screenshot-shitposter.png
 ---
@@ -35,6 +35,4 @@ Don't listen to Mark Twain, he was an imbecile. Shitposter is a parody of Social
 
 ### Creators
 
-Jinx
-
-Scott Klarenbach
+Jinx & Scott Klarenbach
