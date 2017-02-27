@@ -36,3 +36,5 @@ Don't listen to Mark Twain, he was an imbecile. Shitposter is a parody of Social
 ### Creators
 
 Jinx & Scott Klarenbach
+
+Shitposter [Tiny Pitch™](http://tiny.pr/Lq8v5Y8Q)
