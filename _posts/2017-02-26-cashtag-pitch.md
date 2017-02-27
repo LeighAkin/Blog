@@ -17,7 +17,7 @@ For example if a user is reading a [Bloomberg](https://www.bloomberg.com) articl
 
 * Cashtag also brings up relevant mentions across social channels relating to the article you are reading.
 
-## TTAGIT baked right in
+### TTAGIT baked right in
 
 Cashtag uses [http://ttagit.com/](http://ttagit.com/) as its bullboard tool.
 
