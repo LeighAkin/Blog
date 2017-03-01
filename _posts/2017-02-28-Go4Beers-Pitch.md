@@ -33,4 +33,4 @@ The quickest way to a beer and company, made easy, and fun
 
 [go4beers.ca](go4beers.ca) 🍁
 
-Go4Beers [Tiny Pitch™](http://tiny.pr)      
+Go4Beers [Tiny Pitch™](http://tiny.pr/TDk6I3Ls)      
