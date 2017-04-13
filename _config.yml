@@ -6,12 +6,12 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            SHITPOSTER
-tagline:          Jinx
+title:            Shitposter
+tagline:          where shit is posted
 description:      Madam, I have come from a country where people are hanged if they talk ~ Leonhard Euler
 url:              http://shitposter.ca/
 paginate:         10
-baseurl:          http://shitposter.ca/
+baseurl:          http://shitposter.ca
 image_url:        http://shitposter.ca/img/
 author:
   name:           Jinx
