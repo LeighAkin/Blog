@@ -6,16 +6,16 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Jinx
-tagline:          shitpost
+title:            shitposter
+tagline:          Jinx
 description:      Madam, I have come from a country where people are hanged if they talk ~ Leonhard Euler
 url:              https://jinx432.github.io
 paginate:         10
 baseurl:          https://jinx432.github.io/
-image_url:        http://jinx432.com/img/
+image_url:        http://shitposter.ca/img/
 author:
   name:           Jinx
-  url:            https://twitter.com/jinx_______
+  url:            https://twitter.com/wyvern_jinx
   email:          jinx.wyvern@gmail.com
 
 # Custom vars
