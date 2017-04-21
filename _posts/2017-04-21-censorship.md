@@ -42,3 +42,11 @@ And the worst is yet to come, as the USA has handed control of the Internet over
 ### Enters Gab
 
 Gab ([https://gab.ai](https://gab.ai)), is a reaction to Twitter's growing enforcement on censorship.
+
+Gab came about when Twitter was suspended high profile accounts, the suspension of Milo Yiannopoulos from Twitter began Twitter's purge of what they considered high profiled Alt Right accounts. Others followed, many have appealed their suspensions and recovered their accounts.
+
+Gab promises free speech. Though Gab is still a bit of an echo chamber for [#MAGA](https://en.wikipedia.org/wiki/Maga), I see early adopters reaching for alternative audiences. More choices are always better, so I give Gab a thumbs up for that. I would like to write about Gab in another post, bit for now I'll leave it here.
+
+![censorship]({{site.url}}/img/troll.jpg)
+
+### The Troll test
