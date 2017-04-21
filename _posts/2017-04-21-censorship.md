@@ -24,11 +24,11 @@ Twitter went into a purge mode of accounts when the Alt Right gained popularity 
 
 ## Top 5 things that suck with Twitter right now
 
-* The suspicious activity warning that wants your phone number. Sometimes even demanding a voice call verification.
-* Shadow banning. This is where your followers can see your tweets but your tweets are taken off search. At times tweets are even removed from the tree of tweets.
-* Suspensions without reasons, being left in the dark as to why exactly the account was suspended.
-* Phone number blocking. Twitter has banned phone numbers from making accounts.
-* Biased reporting. Racism is allowed at levels, and even fully against one race but not others, and especially not against affluent minorities in the United States.
+1. The suspicious activity warning that wants your phone number. Sometimes even demanding a voice call verification.
+2. Shadow banning. This is where your followers can see your tweets but your tweets are taken off search. At times tweets are even removed from the tree of tweets.
+3. Suspensions without reasons, being left in the dark as to why exactly the account was suspended.
+4. Phone number blocking. Twitter has banned phone numbers from making accounts.
+5. Biased reporting. Racism is allowed at levels, and even fully against one race but not others, and especially not against affluent minorities in the United States.
 
 This of course is not the intention of the creators, it is the monster that is created from paranoid investors and their advisors. Not to mention pressure from groups like the **ADL**, **SPLC**, **CAIR** and their legal teams. Twitter would buckle eventually.
 
