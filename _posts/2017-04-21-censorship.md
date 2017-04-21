@@ -29,3 +29,5 @@ Twitter went into a purge mode of accounts when the Alt Right gained popularity 
 * Suspensions without reasons, being left in the dark as to why exactly the account was suspended.
 * Phone number blocking. Twitter has banned phone numbers from making accounts.
 * Biased reporting. Racism is allowed at levels, and even fully against one race but not others, and especially not against affluent minorities in the United States.
+
+This of course is not the intention of the creators, it is the monster that is created from paranoid investors and their advisors. Not to mention pressure from groups like the **ADL**, **SPLC**, **CAIR** and their legal teams. Twitter would buckle eventually. 
