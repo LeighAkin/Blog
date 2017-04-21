@@ -30,7 +30,7 @@ Twitter went into a purge mode of accounts when the Alt Right gained popularity 
 4. Phone number blocking. Twitter has banned phone numbers from making accounts.
 5. Biased reporting. Racism is allowed at levels, and even fully against one race but not others, and especially not against affluent minorities in the United States.
 
-This of course is not the intention of the creators, it is the monster that is created from paranoid investors and their advisors. Not to mention pressure from groups like the **ADL**, **SPLC**, **CAIR** and their legal teams. Twitter would buckle eventually.
+This of course is not the intention of the creators, it is the monster that is created from paranoid investors and their advisors. Not to mention pressure from groups like the **ACLU**, **ADL**, **SPLC**, **CAIR** and their legal teams. Twitter would buckle eventually.
 
 Of course all the majors are locked into the same phenomena, Twitter is no exception.
 
