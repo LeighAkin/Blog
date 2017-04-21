@@ -16,8 +16,16 @@ Success equals censorship. Does this mean the less you have and the less you are
 
 ### The Inevitable Mad Scientist
 
-Inevitably as attention is drawn to success a Frankenstein monster is created, which everyone tries to control or be a part of.
+Inevitably as attention is drawn to success it becomes a Frankenstein monster, which everyone tries to control or be a part of.
 
 Best case example is what is happening at Twitter right now, the combination of an IPO and lacking any obvious monetization strategies with massive political pressure from the left has made Twitter a machination for Main Stream Media and political correctness.
 
-Twitter went into a purge mode of accounts when the Alt Right gained popularity on the platform. Twitter sent a message to its followers that it would only accept opinions for a Liberal audience, shutting down edgy conservative viewpoints.
+Twitter went into a purge mode of accounts when the Alt Right gained popularity on the platform. Twitter sent a message to its followers that it would only accept opinions for a `Liberal audience`, shutting down edgy conservative viewpoints.
+
+## Top 5 things that suck with Twitter right now
+
+* The suspicious activity warning that wants your phone number. Sometimes even demanding a voice call verification.
+* Shadow banning. This is where your followers can see your tweets but your tweets are taken off search. At times tweets are even removed from the tree of tweets.
+* Suspensions without reasons, being left in the dark as to why exactly the account was suspended.
+* Phone number blocking. Twitter has banned phone numbers from making accounts.
+* Biased reporting. Racism is allowed at levels, and even fully against one race but not others, and especially not against affluent minorities in the United States.
