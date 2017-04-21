@@ -45,8 +45,12 @@ Gab ([https://gab.ai](https://gab.ai)), is a reaction to Twitter's growing enfor
 
 Gab came about when Twitter was suspended high profile accounts, the suspension of Milo Yiannopoulos from Twitter began Twitter's purge of what they considered high profiled Alt Right accounts. Others followed, many have appealed their suspensions and recovered their accounts.
 
-Gab promises free speech. Though Gab is still a bit of an echo chamber for [#MAGA](https://en.wikipedia.org/wiki/Maga), I see early adopters reaching for alternative audiences. More choices are always better, so I give Gab a thumbs up for that. I would like to write about Gab in another post, bit for now I'll leave it here.
+Gab promises free speech. Though Gab is still a bit of an echo chamber for [#MAGA](https://en.wikipedia.org/wiki/Maga), I see early adopters reaching for alternative audiences. More choices are always better, so I give Gab a thumbs up for that. I would like to write more about Gab in another post, but for now I'll just leave it here.
 
 ![censorship]({{site.url}}/img/troll.jpg)
 
-### The Troll test
+## The Troll test
+
+Of course one cannot judge a chatroom until fully trolling it first. Reddit, Twitter, Facebook, Youtube, Gab, even Clash of Clans have been trolled to full capacity. I have pushed the limits, received the bans, been suspended from all but Reddit and Gab. Though I have heard that [@weev](https://gab.ai/weev) had his bio banned on Gab.
+
+There's also other avenues like [4chan](http://www.4chan.org/) if one wants anonymous shitposting.
