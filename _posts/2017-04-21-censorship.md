@@ -16,4 +16,8 @@ Success equals censorship. Does this mean the less you have and the less you are
 
 ### The Inevitable Mad Scientist
 
-Inevitably as attention is drawn to success a Frankenstein monster is created, which everyone tries to control or be a part of. 
+Inevitably as attention is drawn to success a Frankenstein monster is created, which everyone tries to control or be a part of.
+
+Best case example is what is happening at Twitter right now, the combination of an IPO and lacking any obvious monetization strategies with massive political pressure from the left has made Twitter a machination for Main Stream Media and political correctness.
+
+Twitter went into a purge mode of accounts when the Alt Right gained popularity on the platform. Twitter sent a message to its followers that it would only accept opinions for a Liberal audience, shutting down edgy conservative viewpoints.
