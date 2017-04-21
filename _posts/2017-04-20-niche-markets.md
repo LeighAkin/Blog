@@ -44,11 +44,15 @@ There's Niches in:
 
 ### Political Niche
 
-Even in Politics we are seeing the need for Niches to be filled, the Globalist dream would be impossible, imagine if Trump got in as World President, there'd be riots. Even in the US it is looking like it needs a split in Politics from the Right and the Left.
+Even in Politics we are seeing the need for Niches to be filled, the Globalist dream would be impossible, imagine if Trump got in as World President, there'd be riots.
+
+Even in the US it is looking like it needs a split in Politics from the Right and the Left.
 
 It may be in California's best interest to separate, as some states may want more autonomy from each other.
 
-In Syria we see the same, a need for autonomy with the Kurds, Assyrians, non Secular Sunnis and the Ba'ath Government supporters. Autonomy is it's own Niche, and Partition may be the answer, not just for Syria but the US and parts of Europe.
+In Syria we see the same, a need for autonomy with the Kurds, Assyrians, non Secular Sunnis and the Ba'ath Government supporters.
+
+Autonomy is it's own Niche, and Partition may be the answer, not just for Syria but the US and parts of Europe.
 
 There are some people who want Nationalism while others want a more diverse political spectrum, there's no reason both parties can't get what they want, compromise with Niches and we can come to peaceful solutions.
 
