@@ -31,3 +31,9 @@ The Israel Trolls gang up on critics and cyber bully them into either abandoning
 The Israel trolls have a pre written propaganda that they all use and share amongst each other like a mantra. Some of the trolls are even college students paid by pro Israel groups. The Jewish Internet Defense Force [(JIDF)](http://www.thejidf.org/) makes a job out of harassing critics of Israel's foreign policies.
 
 ### The hypocrisy of Israel's morality
+
+Israel seems to do what everyone condemns Trump of trying to do. Israel has a wall, Israel has a strict immigration policy that at times requires a DNA test to prove you are Jewish. Israel has poor relations with its neighbours, Israel has admitted to giving Ethiopian migrants birth control without them knowing it to curb the population of Ethiopian population in Israel.
+
+Israel has a very Nationalistic quality to it while Jews in Europe and the USA have a history of leading anti Nationalist civic rights movements. The Jewish organizations in Europe and America seem to have one opinion for Israel and the other for Europe and the USA.
+
+This type of double speak is aggravating to anyone that either opposes Israel's policies for the Palestinians and Nationalists in European and American countries.  
