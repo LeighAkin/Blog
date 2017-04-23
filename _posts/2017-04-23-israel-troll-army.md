@@ -45,3 +45,9 @@ Israel's trolls have a right to free speech and to say what they want but at the
 Social networks curb on freedom of expression has definitely taken a dive for the worse due to pressure from Jewish Organizations who defend Israel's Apartheid behaviour yet attack similar calls for Nationalism elsewhere.
 
 > To learn who rules over you, simply find out who you are not allowed to criticise ~ Voltaire
+
+### In summary
+
+If it's anti semitic to deny Jews a homeland then it is also anti semitic to deny Palestinians a right to theirs, after all Palestinians are semites too.
+
+If Organizations like the ADL or AIPAC condemn Nationalists in the West then they should also condemn them in Israel. Comon guys, lose the Hypocrisy.
