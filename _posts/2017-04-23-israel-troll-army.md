@@ -36,4 +36,12 @@ Israel seems to do what everyone condemns Trump of trying to do. Israel has a wa
 
 Israel has a very Nationalistic quality to it while Jews in Europe and the USA have a history of leading anti Nationalist civic rights movements. The Jewish organizations in Europe and America seem to have one opinion for Israel and the other for Europe and the USA.
 
-This type of double speak is aggravating to anyone that either opposes Israel's policies for the Palestinians and Nationalists in European and American countries.  
+This type of double speak is aggravating to anyone that either opposes Israel's policies for the Palestinians and to Nationalists in European and American countries.  
+
+### Freedom of speech
+
+Israel's trolls have a right to free speech and to say what they want but at the same time they wish to curb free speech of others. Probably the most damaging thing that has happened to free speech in the west is the censorship coming form these pro Israel groups. Israel is not above criticism.
+
+Social networks curb on freedom of expression has definitely taken a dive for the worse due to pressure from Jewish Organizations who defend Israel's Apartheid behaviour yet attack similar calls for Nationalism elsewhere.
+
+> To learn who rules over you, simply find out who you are not allowed to criticise ~ Voltaire
