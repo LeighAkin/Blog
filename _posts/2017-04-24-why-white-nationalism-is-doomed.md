@@ -11,6 +11,8 @@ Unfortunately for the movement there is no hope, whatever snowball affect multic
 
 ### Opposition
 
-1. **Jewish Organizations** - These organizations are powerful opposition, and have support of the MSM and Politicians.
+1. **Jewish Organizations** - These organizations are a powerful opposition, and have support of the MSM and Politicians.
 2. **Non Whites** - People who aren't white are naturally going to oppose white nationalism as they feel it is against them.
-3. **White Women** - 
+3. **White Women** - If you ever want to repel a woman, pretty much any woman, then talk about white nationalism. The overwhelming majority of white women are not interested in white nationalism.
+4. **Christianity** - Christianity by its very texts has a love thy neighbor mantra to it, not to mention the close attachment to Jews throughout the Bible. Christians are very Zionist, especially in the USA.
+5. **Globalism** - Nationalism is a thorn in Globalism side, as Nationalism will undo all the things Globalists have worked so hard to achieve, like the EU.
