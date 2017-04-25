@@ -20,3 +20,11 @@ Unfortunately for the movement there is no hope, whatever snowball affect multic
 Not to mention hypocrisy in the United States, Canada, Australia and New Zealand that Europeans are not indigenous in. White Nationalism will obviously be met with opposition in these places and a good argument against it, unlike European Nations, though European Nations seem to be most hostile to the idea of white nationalism.
 
 ### Alternative solutions
+
+White Nationalists could build semi autonomous regions like the Amish do, farming communities that are tax free through colonies, but I don't think they can use any discrimination, hence why black Amish people exist. Muslims could also do the same, and have Sharia governed colonies, yet they could only banish people, not inflict Sharia punishments.
+
+Another idea is to accept the inevitable and put efforts into pushing the same on others, such as Islam, Israel, and Africa. I leave Asia out as Asians pretty much mind their own business and don't deserve to be punished for something they don't do.
+
+An idea is also for white male nationalists to merge their stock into Asians, as many white nationalist men are weebs anyways, so perhaps it's best to put seed into genetically the highest IQ people on earth. The west may be lost but perhaps join the winners, which will be Asia, as Africa and the Middle East look doubtful in becoming global leaders anytime soon.
+
+Remember, what destroyed you can be used to destroy others, Israel, Africa, and Islam deserve the same Liberal treatment European Nations enjoy. 
