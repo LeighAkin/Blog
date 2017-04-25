@@ -16,3 +16,7 @@ Unfortunately for the movement there is no hope, whatever snowball affect multic
 3. **White Women** - If you ever want to repel a woman, pretty much any woman, then talk about white nationalism. The overwhelming majority of white women are not interested in white nationalism.
 4. **Christianity** - Christianity by its very texts has a love thy neighbor mantra to it, not to mention the close attachment to Jews throughout the Bible. Christians are very Zionist, especially in the USA.
 5. **Globalism** - Nationalism is a thorn in Globalism side, as Nationalism will undo all the things Globalists have worked so hard to achieve, like the EU.
+
+Not to mention hypocrisy in the United States, Canada, Australia and New Zealand that Europeans are not indigenous in. White Nationalism will obviously be met with opposition in these places and a good argument against it, unlike European Nations, though European Nations seem to be most hostile to the idea of white nationalism.
+
+### Alternative solutions
