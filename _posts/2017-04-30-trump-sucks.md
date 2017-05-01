@@ -30,4 +30,4 @@ With the next election I highly doubt this traitor will get in again, or lets ho
 
 It seems in America voting is irrelevant as no matter who you vote in they will eventually succumb to the mass pressure of the Media which is just an arm for the bankers and elites. If Americans truly want freedom and to control their country they may need to take it by force in a civil war.
 
-As crazy as this sounds this may be something that has engulfed the entire western world, we are all ZOG now. What we need is a global resistance to this nefarious entity. As much as I'm for the Global Citizen project I would hate to see it in the hands of a greedy elite.
+As crazy as this sounds this may be something that has engulfed the entire western world, we are all ZOG now. We can even witness this pressure happening to Brexit, which was democratically voted in. The elites seem to not care about democratic wishes. What we need is a global resistance to this nefarious entity. As much as I'm for the Global Citizen project I would hate to see it in the hands of a greedy elite.
