@@ -6,19 +6,19 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Shitposter
-tagline:          ™
-description:      Shitposter and critic of the Zionist entity 
-url:              http://shitposter.ca
+title:            Hivegreen
+tagline:          Cargo container architecture
+description:      Cargo container architecture. It's super cheap, compact and eco-friendly.
+url:              http://hivegreen.com/blog
 paginate:         5
-baseurl:          http://shitposter.ca/
-image_url:        http://shitposter.ca/img/
+baseurl:          http://hivegreen.com/
+image_url:        http://hivegreen.com/img/
 author:
   name:           Jinx
-  url:            https://twitter.com/wyvern_jinx
-  email:          jinx.wyvern@gmail.com
+  url:            https://twitter.com/hivegrn
+  email:          hivegreen.info@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/jinx432/jinx432.github.io
+  repo:           https://github.com/LeighAkin/blog
