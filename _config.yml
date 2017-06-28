@@ -9,9 +9,9 @@ permalink:        pretty
 title:            Hivegreen
 tagline:          Cargo container architecture
 description:      Cargo container architecture. It's super cheap, compact and eco-friendly.
-url:              http://hivegreen.com/blog
+url:              http://hivegreen.com/blog/
 paginate:         5
-baseurl:          http://hivegreen.com/
+baseurl:          http://hivegreen.com/blog/
 image_url:        http://hivegreen.com/img/
 author:
   name:           Jinx
